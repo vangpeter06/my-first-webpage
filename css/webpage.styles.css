@@ -1,0 +1,13 @@
+h1{
+  color:blue;
+  text-align: center;
+  font-style: italic;
+}
+
+h2{
+  color:brown;
+  font-weight: 200; 
+  font-family:'Courier New', Courier, monospace;
+  font-size: medium;
+  line-height: 0ex;
+}
